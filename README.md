@@ -1,4 +1,4 @@
-# Tech Product Labdig Page - HTML, CSS, JavaScript Website Template
+# Tech Products Landing Page - HTML, CSS, JavaScript Website Template
 
 ![HTML CSS Webpage I](https://github.com/user-attachments/assets/25acc0c2-b80d-4510-98a5-012c7130af2b)
 
