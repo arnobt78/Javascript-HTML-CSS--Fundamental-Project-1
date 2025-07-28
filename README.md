@@ -1,18 +1,19 @@
-# Tech Products Landing Page - HTML, CSS, JavaScript Website Template
+# Modern Tech Landing Page – HTML, CSS, JavaScript Template
 
-![HTML CSS Webpage I](https://github.com/user-attachments/assets/25acc0c2-b80d-4510-98a5-012c7130af2b)
-
-![HTML CSS Webpage II](https://github.com/user-attachments/assets/bf19dc13-96f7-4b88-a374-a25df4e16660)
-
-![HTML CSS Webpage III](https://github.com/user-attachments/assets/828762a4-615a-4842-b339-bc30a82f21b8)
+![HTML CSS Webpage I](https://github.com/user-attachments/assets/25acc0c2-b80d-4510-98a5-012c7130af2b) ![HTML CSS Webpage II](https://github.com/user-attachments/assets/bf19dc13-96f7-4b88-a374-a25df4e16660) ![HTML CSS Webpage III](https://github.com/user-attachments/assets/828762a4-615a-4842-b339-bc30a82f21b8)
 
 ---
 
 ## Project Overview
 
-This project is a modern, responsive website template built with **HTML**, **CSS**, and **JavaScript**. It demonstrates core web development fundamentals and is suitable as a starter template for personal, portfolio, or small business websites.
+This project is a modern, responsive website template built with HTML, CSS, and JavaScript. It demonstrates core web development fundamentals and is suitable as a starter template for personal, portfolio, or small business websites.
+
+- **Live Demo:** [https://modern-tech-landing-page.netlify.app/](https://modern-tech-landing-page.netlify.app/)
+
+---
 
 Key features include:
+
 - Responsive navigation bar (with mobile menu)
 - Hero section with call-to-action
 - Services/Features showcase
@@ -36,18 +37,6 @@ Key features include:
 - [Customization](#customization)
 - [Keywords](#keywords)
 - [Credits](#credits)
-
----
-
-## Live Demo
-
-> _You can run this project locally by following the instructions below. Optionally, deploy it with GitHub Pages or any static hosting provider!_
-
----
-
-## Screenshots
-
-Look above
 
 ---
 
